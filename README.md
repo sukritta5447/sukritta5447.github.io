@@ -21,3 +21,30 @@ This project is built exclusively using client-side technologies, making it idea
 - Project Showcase: Displays a curated list of my key projects with links to live demos and their respective code repositories.
 
 - Contact Form: (Note: The form submission logic is handled by a third-party service, as GitHub Pages is static.)
+
+### 📂 Project Structure
+The codebase is organized into standard web directories:
+```
+.
+├── index.html            # Main entry point (homepage)
+├── /css
+│   └── style.css         # Primary custom styles
+├── /js
+│   └── scripts.js        # All custom JavaScript functionality
+├── /img
+│   └── [assets]          # Images, icons, and favicon
+└── README.md
+```
+
+### 💻 Running Locally
+To view and test this project on your own machine:
+
+1. Clone the Repository:
+`git clone https://github.com/[YourUsername]/[YourRepositoryName].git`
+
+2. Navigate to the Directory:
+`cd [YourRepositoryName]`
+
+3. Open the File:
+Simply open the `index.html` file in your web browser (e.g., drag and drop it into Chrome or Firefox).
+
