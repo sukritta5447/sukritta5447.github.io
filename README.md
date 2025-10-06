@@ -1,14 +1,22 @@
-🌐 My Personal Portfolio Website
+## 🌐 My Personal Portfolio Website
 This repository hosts the source code for my personal portfolio website, published via GitHub Pages at: https://sukritta5447.github.io
 
 The site is built as a static page, focusing on clean design and showcasing my proficiency in core front-end technologies.
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 This project is built exclusively using client-side technologies, making it ideal for hosting on GitHub Pages.
-Language / Framework	Purpose
-HTML5	Used for semantic document structure.
-CSS3	Used for custom styling and responsive design.
-JavaScript (Vanilla)	Implements client-side interactivity, form handling, and dynamic UI elements.
-Bootstrap / Tailwind CSS	(Optional: Mention if you used a framework, e.g., Bootstrap for the grid system.)
+| Language/Framework | Purpose |
+| --- | --- |
+| HTML5 |	Used for semantic document structure. |
+| CSS3 |	Used for custom styling and responsive design. |
+| JavaScript (Vanilla) |	Implements client-side interactivity, form handling, and dynamic UI elements. |
+| Bootstrap / Tailwind CSS | - |
 
-Export to Sheets
+### 🚀 Features
+- Responsive Design: Optimized for desktop, tablet, and mobile viewing.
+
+- Clean, Modern UI: Designed with a focus on usability and professional aesthetics.
+
+- Project Showcase: Displays a curated list of my key projects with links to live demos and their respective code repositories.
+
+- Contact Form: (Note: The form submission logic is handled by a third-party service, as GitHub Pages is static.)
