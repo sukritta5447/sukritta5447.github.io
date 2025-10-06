@@ -39,12 +39,12 @@ The codebase is organized into standard web directories:
 ### 💻 Running Locally
 To view and test this project on your own machine:
 
-1. Clone the Repository:
+1. Clone the Repository:</br>
 `git clone https://github.com/[YourUsername]/[YourRepositoryName].git`
 
-2. Navigate to the Directory:
+2. Navigate to the Directory:</br>
 `cd [YourRepositoryName]`
 
-3. Open the File:
+3. Open the File:</br>
 Simply open the `index.html` file in your web browser (e.g., drag and drop it into Chrome or Firefox).
 
