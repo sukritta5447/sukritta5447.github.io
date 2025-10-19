@@ -48,3 +48,5 @@ To view and test this project on your own machine:
 3. Open the File:</br>
 Simply open the `index.html` file in your web browser (e.g., drag and drop it into Chrome or Firefox).
 
+### Personal Note/What I learned from the project
+this is where I'm going to breakdown everything I've learn it this project.
